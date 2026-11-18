@@ -1,0 +1,1 @@
+import{t as e}from"./ResourceLibrary-Co-bk50w.js";import{bt as t}from"./index-B083OlZK.js";var n=t(),r=()=>(0,n.jsx)(e,{kind:`learn`});export{r as component};
